@@ -27,7 +27,7 @@ Add to your `tsconfig.json`:
     "baseUrl": "./",
     "module": "ES2022",
     "moduleResolution": "Node",
-    "target": "ES2022",
+    "target": "ES2022"
   }
 }
 ```
