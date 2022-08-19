@@ -3,12 +3,15 @@
 Hosts TSConfig base that I personally use for my TS projects. 
 The base has very strict rules, that drive strictly typed, good quality code. 
 
-## Recommended <kbd><a href="./bases/tsconfig.json">tsconfig.json</a></kbd>
+## How to use
 
 Install:
 
 ```sh
+# npm installation
 npm install --save-dev @bozerkins/tsconfig-base
+
+# yarn installation
 yarn add --dev @bozerkins/tsconfig-base
 ```
 
@@ -18,7 +21,7 @@ Add to your `tsconfig.json`:
 "extends": "@bozerkins/tsconfig-base/tsconfig.json"
 ```
 
-### Example tsconfig.json
+## Example tsconfig.json
 
 ```json
 {
