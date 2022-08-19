@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bozerkins/tsconfig-base.git",
-    "directory": "bases"
+    "url": "https://github.com/bozerkins/tsconfig-base.git"
   },
   "license": "MIT",
   "description": "A base TSConfig for working with latest typescript",
