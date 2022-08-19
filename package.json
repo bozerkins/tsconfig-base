@@ -1,5 +1,6 @@
 {
   "name": "@bozerkins/tsconfig-base",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/bozerkins/tsconfig-base.git",
@@ -11,5 +12,7 @@
     "tsconfig",
     "node16"
   ],
-  "version": "1.0.0"
+  "scripts": {
+    "public": "npm publish --access public"
+  }
 }
