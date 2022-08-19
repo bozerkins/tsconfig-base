@@ -12,6 +12,6 @@
     "node16"
   ],
   "scripts": {
-    "public": "npm publish --access public"
+    "publish": "npm publish --access public"
   }
 }
