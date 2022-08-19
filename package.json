@@ -1,0 +1,15 @@
+{
+  "name": "@bozerkins/tsconfig-base",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bozerkins/tsconfig-base.git",
+    "directory": "bases"
+  },
+  "license": "MIT",
+  "description": "A base TSConfig for working with latest typescript",
+  "keywords": [
+    "tsconfig",
+    "node16"
+  ],
+  "version": "1.0.0"
+}
