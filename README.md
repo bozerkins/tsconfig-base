@@ -25,12 +25,12 @@ Add to your `tsconfig.json`:
 
 ```json
 {
-  "extends": "@bozerkins/tsconfig-base/tsconfig.json",
-  "compilerOptions": {
-    "baseUrl": "./",
-    "module": "ES2022",
-    "moduleResolution": "Node",
-    "target": "ES2022"
-  }
+    "extends": "@bozerkins/tsconfig-base/tsconfig.json",
+    "compilerOptions": {
+        "baseUrl": "./",
+        "module": "CommonJS",
+        "target": "ES2022"
+    },
+    "exclude": ["node_modules"]
 }
 ```
